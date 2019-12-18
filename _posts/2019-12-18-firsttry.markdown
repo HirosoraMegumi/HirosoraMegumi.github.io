@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Welcome!"
-date:   2018-05-17 14:05:21 +0800
-tags: first try
+date:   2019-12-18 14:17:21 +0800
+tags: firsttry
 color: rgb(255,90,90)
 cover: '../assets/test.png'
 subtitle: 'Welcome!'
