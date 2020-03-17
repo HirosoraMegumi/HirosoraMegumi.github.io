@@ -11,13 +11,15 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 
 # 博主
 author: true
-name: '惠昊天'
+name: '広空'
 NickName: '広空'
 webtitle: 'My awesome website'
-bio: 'Nothing                                  试试'
-about: true
-aboutyou: '试试'
-animation: '空の境界'
+bio: 'Nothing'
+about: false
+aboutyou: 'test'
+animation: '好きなアニメ：「空の境界」'
+movie: '好きな映画：「Dances with Wolves」'
+song: '好きな歌：「Starlight」(福原美穂)'
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
