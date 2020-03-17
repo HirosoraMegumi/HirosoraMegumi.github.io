@@ -20,7 +20,7 @@ aboutyou: 'Get started'
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
-SNS: true
+SNS: false
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
   mail: 'hht448562804@163.com'
   weixin: '' # 你的微信二维码存放的地址
