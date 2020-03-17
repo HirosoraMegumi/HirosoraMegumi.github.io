@@ -17,9 +17,9 @@ webtitle: 'My awesome website'
 bio: ''
 about: false
 aboutyou: 'test'
-animation: '好きなアニメ：「空の境界」'
-movie: '好きな映画：「Dances with Wolves」'
-song: '好きな歌：「Starlight」(福原美穂)'
+animation: '好きなアニメ：「空の境界」、「終末なにしてますか? 忙しいですか? 救ってもらっていいですか?」'
+movie: '好きな映画：「Dances with Wolves」「Frozen」'
+song: '好きな歌：「Starlight」(福原美穂)、「Within Attraction」（Yanni Live at the Acropolis）'
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
