@@ -14,9 +14,9 @@ author: true
 name: '惠昊天'
 NickName: '広空'
 webtitle: 'My awesome website'
-bio: 'Nothing important'
+bio: 'Nothing                                  试试'
 about: true
-aboutyou: 'Get started'
+aboutyou: '试试'
 animation: '空の境界'
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
